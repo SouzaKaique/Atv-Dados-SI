@@ -45,10 +45,10 @@ O projeto foi desenvolvido utilizando Streamlit para a interface web, Pandas par
 
 ## 📈 Fonte dos Dados
 
-Os dados são carregados diretamente de um arquivo CSV hospedado no GitHub:
+Os dados são carregados diretamente de um arquivo CSV dentro do repositório, com o nome "mental_health_workplace":
 
 ```python
-https://raw.githubusercontent.com/vqrca/dashboard_salarios_dados/refs/heads/main/dados-imersao-final.csv
+mental_health_workplace
 ```
 
 ---
@@ -58,13 +58,13 @@ https://raw.githubusercontent.com/vqrca/dashboard_salarios_dados/refs/heads/main
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/SouzaKaique/Atv-Dados-SI.git
 ```
 
 ### 2. Acessar a pasta do projeto
 
 ```bash
-cd nome-do-repositorio
+cd ProjetoSI
 ```
 
 ### 3. Criar um ambiente virtual (opcional)
